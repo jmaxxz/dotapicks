@@ -1,16 +1,88 @@
 {
-  "Earthshaker" : {},
-  "Beastmaster" : {},
-  "Huskar" : {},
+  "Earthshaker" : {
+    "winningMatchups":{
+      "Meepo": 3,
+      "Naga Siren": 2,
+      "Chaos Knight": 1
+    }},
+  "Beastmaster" : {
+    "winningMatchups":{
+      "Broodmother": 1
+    }},
+  "Huskar" : {
+    "winningMatchups":{
+      "Pugna": 3,
+      "Zeus": 3,
+      "Earth Spirit": 3,
+      "Clockwerk": 2,
+      "Skywrath": 2,
+      "Queen of Pain": 1,
+      "Ember Spirit": 1,
+      "Batrider": 1,
+      "Venomancer": 1,
+      "Ogre Magi": 1,
+      "Lich": 1,
+      "Pudge": 1
+    }},
   "Io" : { 
-    "nicknames" : "Wisp"
-  },
+    "nicknames" : "Wisp",
+    "winningMatchups":{
+      "Earth Spirit": 1,
+      "Natures Prophet": 1,
+      "Spectre": 1
+  }},
   "Tusk" : {},
-  "Axe" : {},
-  "Tidehunter" : {},
-  "Doom" : {},
-  "Undying" : {},
-  "Sven" : {},
+  "Axe" : {
+    "winningMatchups":{
+      "Lycan": 2,
+      "Broodmother": 2,
+      "Undying": 1,
+      "Templar Assassin": 1,
+      "Faceless Void": 1,
+      "Beastmaster": 1,
+      "Phantom Lancer": 1,
+      "Naga Siren": 1,
+      "Phantom Assassin": 1
+  }},
+  "Tidehunter" : {
+    "winningMatchups":{
+      "Slardar": 2,
+      "Naga Siren": 1,
+      "Chaos Knight": 1,
+      "Phantom Assassin": 1,
+      "Bane": 1
+  }},
+  "Doom" : {
+    "winningMatchups":{
+      "Abaddon": 2
+  }},
+  "Undying" : {
+    "winningMatchups":{
+      "Spectre": 3,
+      "Visage": 2,
+      "Centaur Warrunner": 2,
+      "Treant Protector": 2,
+      "Abaddon": 1,
+      "Chaos Knight": 1,
+      "Naga Siren": 1,
+      "Earth Spirit": 1,
+      "Lich": 1,
+      "Wraith King": 1,
+      "Meepo": 1,
+      "Ogre Magi": 1,
+      "Crystal Magi": 1,
+      "Clockwerk": 1,
+      "Omniknight": 1,
+      "Tusk": 1
+  }},
+  "Sven" : {
+    "winningMatchups":{
+      "Meepo": 3,
+      "Chaos": 2,
+      "Earth Spirit": 1,
+      "Undying": 1,
+      "Naga Siren": 1
+  }},
   "Dragon Knight" : { 
     "nicknames" : "dk"
   },
@@ -81,7 +153,7 @@
     "nicknames" : "cm"
   },
   "Zeus" : {},
-  "Natures Prophet" : { 
+  "Nature's Prophet" : { 
     "nicknames" : "np"
   },
   "Silencer" : {},

@@ -43,7 +43,11 @@
   "Sniper" : {},
   "Ursa" : {},
   "Troll Warlord" : {},
-  "Bloodseeker" : {},
+  "Bloodseeker" : {
+    "nicknames":"bs",
+    "winningMatchups":{
+      "Slark":2
+    }},
   "Faceless Void" : {},
   "Broodmother" : {},
   "Nyx Assassin" : {},

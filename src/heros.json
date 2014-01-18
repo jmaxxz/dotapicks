@@ -84,27 +84,232 @@
       "Naga Siren": 1
   }},
   "Dragon Knight" : { 
-    "nicknames" : "dk"
-  },
-  "Alchemist" : {},
-  "Centaur Warrunner" : {},
-  "Elder Titan" : {},
-  "Pudge" : {},
-  "Wraith King" : {},
-  "Spirit Breaker" : {},
-  "Magnus" : {},
-  "Tiny" : {},
-  "Clockwerk" : {},
-  "Brewmaster" : {},
-  "Timbersaw" : {},
-  "Legion Commander" : {},
-  "Sand King" : {},
-  "Lifestealer" : {},
-  "Lycan" : {},
-  "Abaddon" : {},
-  "Kunkka" : {},
-  "Omniknight" : {},
-  "Treant Protector" : {},
+    "nicknames" : "dk",
+    "winningMatchups":{
+      "Storm Spirit": 1,
+      "Templar Assassin": 1,
+      "Legion Commander": 1,
+      "Slardar": 1
+  }},
+  "Alchemist" : {
+    "winningMatchups":{
+      "Timbersaw": 2,
+      "Spectre": 2,
+      "Kunkka": 2,
+      "Elder Titan": 2,
+      "Clockwerk": 1,
+      "Doom": 1,
+      "Earthshaker": 1,
+      "Windranger": 1,
+      "Necrophos": 1,
+      "Venomancer": 1,
+      "Dark Seer": 1
+  }},
+  "Centaur Warrunner" : {
+    "winningMatchups":{
+      "Tusk": 1,
+      "Phantom Assassin": 1,
+      "Meepo": 1,
+      "Faceless Void": 1,
+      "Troll Warlord": 1,
+      "Broodmother": 1,
+      "Naga Siren": 1,
+      "Chaos Knight": 1,
+      "Ursa":1
+  }},
+  "Elder Titan" : {
+    "winningMatchups":{
+      "Meepo": 2,
+      "Naga Siren": 1,
+      "Sand King": 1,
+      "Chaos Knight": 1,
+      "Magnus": 1,
+      "Gyrocopter": 1,
+      "Earth Spirit": 1
+  }},
+  "Pudge" : {
+    "winningMatchups":{
+      "Pugna": 3,
+      "Shadow Fiend": 1,
+      "Tinker": 1
+  }},
+  "Wraith King" : {
+    "winningMatchups":{
+      "Doom": 2,
+      "Spectre": 1,
+      "Zeus": 1,
+      "Legion Commander": 1,
+      "Bloodseeker": 1,
+      "Earth Spirit": 1,
+      "Pudge": 1,
+      "Nature's Prophet": 1,
+      "Faceless Void": 1
+  }},
+  "Spirit Breaker" : {
+    "winningMatchups":{
+      "Nature's Prophet": 2,
+      "Earth Spirit": 1,
+      "Pugna": 1,
+      "Clinkz": 1,
+      "Anti-Mage":1,
+      "Keeper of the Light":1
+  }},
+  "Magnus" : {
+    "winningMatchups":{
+      "Pugna": 3,
+      "Shadow Fiend": 1,
+      "Tinker": 1
+  }},
+  "Tiny" : {
+    "winningMatchups":{
+      "Naga Siren": 2,
+      "Meepo": 2,
+      "Broodmother": 2,
+      "Phantom Assassin": 1,
+      "Faceless Void": 1,
+      "Phantom Lancer": 1,
+      "Legion Commander": 1,
+      "Slark": 1
+  }},
+  "Clockwerk" : {
+    "winningMatchups":{
+      "Earthshaker": 2,
+      "Naga Siren": 1,
+      "Centaur Warrunner": 1,
+      "Slardar": 1,
+      "Axe": 1
+  }},
+  "Brewmaster" : {
+    "winningMatchups":{
+      "Lone Druid": 2,
+      "Earth Spirit": 1,
+      "Templar Assassin": 1,
+      "Huskar": 1,
+      "Ember Spirit": 1,
+      "Naga Siren": 1, 
+      "Chaos Knight": 1,
+      "Broodmother": 1
+  }},
+  "Timbersaw" : {
+    "winningMatchups":{
+      "Meepo": 3,
+      "Phantom Lancer": 3,
+      "Naga Siren": 3,
+      "Axe": 2,
+      "Brewmaster": 2,
+      "Sand King": 1,
+      "Phantom Assassin": 1,
+      "Centaur Warrunner": 1,
+      "Lone Druid": 1,
+      "Tidehunter": 1,
+      "Chaos Knight": 1,
+      "Bristleback": 1,
+      "Legion Commander": 1
+  }},
+  "Legion Commander" : {
+    "winningMatchups":{
+      "Anti-Mage": 2,
+      "Broodmother": 2,
+      "Nature's Prophet": 1
+  }},
+  "Sand King" : {
+    "nicknames":"sk",
+    "winningMatchups":{
+      "Chaos Knight": 2,
+      "Slark": 1,
+      "Phantom Assassin": 1,
+      "Meepo": 1,
+      "Outworld Devourer": 1,
+      "Naga Siren": 1,
+      "Vengeful Spirit": 1,
+      "Templar Assassin": 1,
+      "Phantom Lancer": 1,
+      "Legion Commander": 1,
+      "Lone Druid": 1,
+      "Shadow Demon": 1
+  }},
+  "Lifestealer" : {
+    "nicknames": "ls",
+    "winningMatchups":{
+      "Pudge": 2,
+      "Ember Spirit": 2,
+      "Clockwerk": 1,
+      "Spectre": 1,
+      "Zeus": 1,
+      "Kunkka": 1,
+      "Tiny": 1,
+      "Earthshaker": 1,
+      "Timbersaw": 1,
+      "Alchemist": 1,
+      "Keeper of the Light": 1
+  }},
+  "Lycan" : {
+    "winningMatchups":{
+      "Alchemist": 2,
+      "Earth Spirit": 2,
+      "Clockwerk": 2,
+      "Ancient Apparition": 2,
+      "Spectre": 2,
+      "Nature's Prophet": 2,
+      "Doom": 1,
+      "Pudge": 1,
+      "Silencer": 1,
+      "Pugna": 1,
+      "Elder Titan": 1,
+      "Juggernaut": 1,
+      "Lifestealer": 1,
+      "Mirana": 1,
+      "Undying": 1,
+      "Pugna": 1,
+      "Invoker": 1,
+      "Ember Spirit": 1,
+      "Rubick": 1,
+      "Venomancer": 1
+  }},
+  "Abaddon" : {
+    "winningMatchups":{
+      "Lifestealer": 1,
+      "Pudge": 1,
+      "Skywrath Mage": 1,
+      "Ogre Magi": 1,
+      "Venomancer": 1,
+      "Legion Commander": 1,
+      "Tidehunter": 1
+  }},
+  "Kunkka" : {
+    "winningMatchups":{
+      "Meepo": 3,
+      "Chaos Knight": 2,
+      "Phantom Lancer": 1,
+      "Naga Siren": 1,
+      "Undying": 1
+  }},
+  "Omniknight" : {
+    "winningMatchups":{
+      "Spectre": 3,
+      "Lifestealer": 2,
+      "Slark": 2,
+      "Phantom Assassin": 2,
+      "Huskar": 2,
+      "Chaos Knight": 1,
+      "Phantom Lancer": 1,
+      "Storm Spirit": 1,
+      "Legion Commander": 1,
+      "Ogre Magi": 1,
+      "Bounty Hunter": 1,
+      "Tusk": 1,
+      "Alchemist": 1,
+      "Spirit Breaker": 1,
+      "Wraith King": 1,
+      "Lycan": 1
+  }},
+  "Treant Protector" : {
+    "winningMatchups":{
+      "Spectre": 3,
+      "Spirit Breaker": 1,
+      "Storm Spirit": 1,
+      "Lone Druid": 1
+  }},
   "Bristleback" : {},
   "Earth Spirit" : {},
   "Slardar" : {},

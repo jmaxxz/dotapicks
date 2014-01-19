@@ -552,29 +552,234 @@
       "Clinkz": 1,
       "Lone Druid": 1
   }},
-  "Weaver" : {},
-  "Slark" : {},
-  "Juggernaut" : {},
-  "Vengeful Spirit" : {},
-  "Luna" : {},
-  "Lone Druid" : {},
-  "Razor" : {},
-  "Viper" : {},
-  "Spectre" : {},
-  "Medusa" : {},
+  "Weaver" : {
+    "winningMatchups":{
+      "Lifestealer": 1,
+      "Shadow Demon": 1,
+      "Timbersaw": 1,
+      "Kunkka": 1,
+      "Undying": 1,
+      "Invoker": 1,
+      "Witch Doctor": 1,
+      "Ancient Apparition": 1
+  }},
+  "Slark" : {
+    "winningMatchups":{
+      "Nature's Prophet": 1,
+      "Lifestealer": 1,
+      "Lone Druid": 1,
+      "Medusa": 1,
+      "Treant Protector": 1,
+      "Rubick": 1,
+      "Venomancer": 1,
+      "Templar Assassin": 1,
+      "Enchantress": 1
+  }},
+  "Juggernaut" : {
+    "winningMatchups":{
+      "Timbersaw": 2,
+      "Spectre": 2,
+      "Ember Spirit": 1,
+      "Earth Spirit": 1,
+      "Clockwerk": 1,
+      "Ancient Apparition": 1,
+      "Gyrocopter": 1,
+      "Tidehunter": 1,
+      "Nyx Assassin": 1,
+      "Centaur Warrunner": 1,
+      "Kunkka": 1,
+      "Rubick": 1
+  }},
+  "Vengeful Spirit" : {
+    "winningMatchups":{
+      "Legion Commander": 1,
+      "Anti-Mage": 1,
+      "Alchemist": 1
+  }},
+  "Luna" : {
+    "winningMatchups":{
+      "Timbersaw": 1,
+      "Legion Commander": 1,
+      "Omniknight": 1,
+      "Undying": 1,
+      "Doom": 1,
+      "Slardar": 1,
+      "Dazzle": 1
+  }},
+  "Lone Druid" : {
+    "winningMatchups":{
+      "Silencer": 1,
+      "Mirana": 1
+  }},
+  "Razor" : {
+    "winningMatchups":{
+      "Omniknight": 1,
+      "Rubick": 1,
+      "Earth Spirit": 1,
+      "Undying": 1,
+      "Bristleback": 1,
+      "Skywrath Mage": 1,
+      "Bane": 1,
+      "Visage": 1
+  }},
+  "Viper" : {
+    "winningMatchups":{
+      "Batrider": 2,
+      "Tiny": 2,
+      "Clockwerk": 1,
+      "Alchemist": 1,
+      "Venomancer": 1,
+      "Pugna": 1,
+      "Bristleback": 1,
+      "Earth Spirit": 1,
+      "Queen of Pain": 1,
+      "Leshrac": 1
+  }},
+  "Spectre" : {
+    "winningMatchups":{
+      "Magnus": 2,
+      "Earthshaker": 2,
+      "Sniper": 1,
+      "Tidehunter": 1,
+      "Nature's Prophet": 1,
+      "Clockwerk": 1,
+      "Rubick": 1,
+      "Lina": 1,
+      "Sand King": 1
+  }},
+  "Medusa" : {
+    "winningMatchups":{
+      "Chaos Knight": 1,
+      "Sven": 1
+  }},
   "Mirana" : { 
-    "nicknames" : ["potm", "Priestess of the Moon"]
-  },
-  "Riki" : {},
-  "Bounty Hunter" : {},
-  "Naga Siren" : {},
-  "Venomancer" : {},
-  "Clinkz" : {},
-  "Meepo" : {},
+    "nicknames" : ["potm", "Priestess of the Moon"],
+    "winningMatchups":{
+      "Witch Doctor": 1
+  }},
+  "Riki" : {
+    "winningMatchups":{
+      "Alchemist": 3,
+      "Anti-Mage": 2,
+      "Lifestealer": 2,
+      "Nature's Prophet": 2,
+      "Weaver": 2,
+      "Nyx Assassin": 1,
+      "Medusa": 1,
+      "Earth Spirit": 1,
+      "Lycan": 1,
+      "Clinkz": 1,
+      "Witch Doctor": 1,
+      "Pugna": 1,
+      "Chen": 1,
+      "Storm Spirit": 1,
+      "Ember Spirit": 1,
+      "Rubick": 1,
+      "Undying": 1
+  }},
+  "Bounty Hunter" : {
+    "winningMatchups":{
+      "Broodmother": 3,
+      "Alchemist": 2,
+      "Clinkz": 1,
+      "Weaver": 1,
+      "Mirana": 1,
+      "Nature's Prophet": 1
+  }},
+  "Naga Siren" : {
+    "winningMatchups":{
+      "Broodmother": 3,
+      "Lycan": 2,
+      "Bounty Hunter": 2,
+      "Templar Assassin": 2,
+      "Wraith King":  1,
+      "Chaos Knight": 1,
+      "Shadow Demon": 1,
+      "Night Stalker": 1
+  }},
+  "Venomancer" : {
+    "winningMatchups":{
+      "Templar Assassin": 3,
+      "Bristleback": 3,
+      "Axe": 3,
+      "Slardar": 3,
+      "Tiny": 1,
+      "Naga Siren": 1,
+      "Centaur Warrunner": 1,
+      "Kunkka": 1,
+      "Batrider": 1,
+      "Timbersaw": 1,
+      "Doom": 1
+  }},
+  "Clinkz" : {
+    "winningMatchups":{
+      "Ember Spirit": 2,
+      "Alchemist": 1,
+      "Elder Titan": 1,
+      "Timbersaw": 1,
+      "Earth Spirit": 1,
+      "Ancient Apparition": 1,
+      "Rubick": 1,
+      "Anti-Mage": 1,
+      "Clockwerk": 1,
+      "Juggernaut": 1
+  }},
+  "Meepo" : {
+    "winningMatchups":{
+      "Broodmother": 3,
+      "Spirit Breaker": 2,
+      "Bloodseeker": 2,
+      "Bounty Hunter": 2,
+      "Phantom Lancer": 2,
+      "Wraith King": 2,
+      "Nigh Stalker": 2,
+      "Zues": 1,
+      "Nature's Prophet": 1,
+      "Alchemist": 1,
+      "Lone Druid": 1,
+      "Anti-Mage": 1,
+      "Luna": 1,
+      "Bane": 1,
+      "Doom": 1,
+      "Templar Assassin": 1,
+      "Chaos Knight": 1,
+      "Viper": 1,
+      "Pugna": 1
+  }},
   "Crystal Maiden" : { 
-    "nicknames" : "cm"
-  },
-  "Zeus" : {},
+    "nicknames" : "cm",
+    "winningMatchups":{
+      "Phantom Assassin": 1,
+      "Broodmother": 1,
+      "Anti-Mage": 1,
+      "Legion Commander": 1,
+      "Troll Warlord": 1,
+      "Enchantress": 1,
+      "Templar Assassin": 1,
+      "Phantom Lancer": 1
+  }},
+  "Zeus" : {
+    "winningMatchups":{
+      "Weaver": 2,
+      "Timbersaw": 2,
+      "Outworld Devourer": 2,
+      "Mirana": 2,
+      "Sand King": 2,
+      "Slardar": 1,
+      "Venomancer": 1,
+      "Shadow Fiend": 1,
+      "Earthshaker": 1,
+      "Leshrac": 1,
+      "Queen of Pain": 1,
+      "Gyrocopter": 1,
+      "Magnus": 1,
+      "Luna": 1,
+      "Eath Spirit": 1,
+      "Naga Siren": 1,
+      "Phantom Lancer": 1,
+      "Nyx Assassin": 1,
+      "Clockwerk": 1
+  }},
   "Nature's Prophet" : { 
     "nicknames" : "np"
   },

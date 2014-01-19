@@ -781,21 +781,123 @@
       "Clockwerk": 1
   }},
   "Nature's Prophet" : { 
-    "nicknames" : "np"
-  },
-  "Silencer" : {},
-  "Keeper of the Light" : {},
+    "nicknames" : "np",
+    "winningMatchups":{
+      "Elder Titan": 1,
+      "Venomancer": 1,
+      "Disruptor": 1,
+      "Silencer": 1,
+      "Ancient Apparition": 1,
+      "Witch Doctor": 1,
+      "Pugna": 1,
+      "Lich": 1,
+      "Undying": 1
+  }},
+  "Silencer" : {
+    "winningMatchups":{
+      "Omniknight": 2,
+      "Brewmaster": 1,
+      "Timbersaw": 1,
+      "Outworld Devourer": 1,
+      "Magnus": 1,
+      "Centaur Warrunner": 1,
+      "Enigma": 1,
+      "Necrophos": 1
+  }},
+  "Keeper of the Light" : {
+    "nicknames":"kotl",
+    "winningMatchups":{
+      "Medusa": 1,
+      "Undying": 1
+  }},
   "Bane" : {},
-  "Enigma" : {},
-  "Death Prophet" : {},
-  "Dark Seer" : {},
-  "Outworld Devourer" : {},
+  "Enigma" : {
+    "winningMatchups":{
+      "Legion Commander": 1
+  }},
+  "Death Prophet" : {
+    "nicknames": "dp",
+    "winningMatchups":{
+      "Timbersaw": 3,
+      "Dark Seer": 2,
+      "Treant Protector": 2,
+      "Omniknight": 2,
+      "Tidehunter": 2,
+      "Brewmaster": 2,
+      "Bristleback": 2,
+      "Undying": 2,
+      "Doom": 1,
+      "Enigma": 1,
+      "Naga Siren": 1,
+      "Outworld Devourer": 1,
+      "Jakiro": 1,
+      "Storm Spirit": 1,
+      "Magnus": 1,
+      "Centaur Warrunner": 1,
+      "Faceless Void": 1,
+      "Warlock": 1,
+      "Nyx Assassin": 1,
+      "Shadow Shaman": 1,
+      "Batrider": 1,
+      "Puck": 1,
+      "Bane": 1
+  }},
+  "Dark Seer" : {
+    "nicknames": "ds",
+    "winningMatchups":{
+      "Templar Assassin": 3,
+      "Treant Protector": 2,
+      "Omniknight": 1,
+      "Beastmaster": 1,
+      "Phantom Lancer": 1,
+      "Choas Knight": 1,
+      "Meepo": 1,
+      "Naga Siren": 1,
+      "Dazzle": 1
+  }},
+  "Outworld Devourer" : {
+    "nicknames":"od",
+    "winningMatchups":{
+      "Omniknight": 2,
+      "Anti-Mage": 2,
+      "Bristleback": 1,
+      "Meepo": 1,
+      "Slardar": 1,
+      "Abaddon": 1,
+      "Dazzle": 1
+  }},
   "Puck" : {},
-  "Lina" : {},
-  "Enchantress" : {},
-  "Ogre Magi" : {},
-  "Skywrath Mage" : {},
-  "Lich" : {},
+  "Lina" : {
+    "winningMatchups":{
+      "Meepo": 2,
+      "Omniknight": 1
+  }},
+  "Enchantress" : {
+    "winningMatchups":{
+      "Lone Druid": 1
+  }},
+  "Ogre Magi" : {
+    "winningMatchups":{
+      "Phantom Assassin": 2,
+      "Tinker": 1
+  }},
+  "Skywrath Mage" : {
+    "winningMatchups":{
+      "Timbersaw": 1
+  }},
+  "Lich" : {
+    "winningMatchups":{
+      "Omniknight": 1,
+      "Slardar": 1,
+      "Necrophos": 1,
+      "Dazzle": 1,
+      "Medusa": 1,
+      "Meepo": 1,
+      "Troll Warlord": 1,
+      "Axe": 1,
+      "Legion Commander": 1,
+      "Lone Druid": 1
+  }},
   "Necrophos" : {},
   "Pugna" : {},
   "Batrider" : {},

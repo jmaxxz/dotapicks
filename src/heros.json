@@ -310,31 +310,248 @@
       "Storm Spirit": 1,
       "Lone Druid": 1
   }},
-  "Bristleback" : {},
-  "Earth Spirit" : {},
-  "Slardar" : {},
-  "Night Stalker" : {},
-  "Chaos Knight" : {},
-  "Anti-Mage" : {},
+  "Bristleback" : {
+    "winningMatchups":{
+      "Undying": 3,
+      "Visage": 2,
+      "Tiny": 1,
+      "Rubick": 1,
+      "Phantom Assassin": 1,
+      "Pudge": 1,
+      "Huskar": 1,
+      "Lone Druid": 1,
+      "Riki": 1,
+      "Lycan": 1,
+      "Broodmother": 1
+  }},
+  "Earth Spirit" : {
+    "winningMatchups":{
+      "Mirana": 2,
+      "Crystal Maiden": 1,
+      "Slark": 1,
+      "Clockwerk": 1,
+      "Rubick": 1,
+      "Windranger": 1,
+      "Storm Spirit": 1
+  }},
+  "Slardar" : {
+    "winningMatchups":{
+      "Broodmother": 3,
+      "Lycan": 3,
+      "Templar Assassin": 1,
+      "Bounty Hunter": 1,
+      "Anti-Mage": 1,
+      "Bristleback": 1,
+      "Meepo": 1,
+      "Ursa": 1
+  }},
+  "Night Stalker" : {
+    "nicknames":"ns",
+    "winningMatchups":{
+      "Earth Spirit": 1,
+      "Doom": 1,
+      "Alchemist": 1,
+      "Shadow Fiend": 1,
+      "Juggernaut": 1
+  }},
+  "Chaos Knight" : {
+    "nicknames":"ck",
+    "winningMatchups":{
+      "Huskar": 1,
+      "Doom": 1,
+      "Skywrath Mage": 1,
+      "Bane": 1
+  }},
+  "Anti-Mage" : {
+    "nicknames": "am",
+    "winningMatchups":{
+      "Clockwerk": 2,
+      "Wraith King": 2,
+      "Ancient Apparition": 1,
+      "Pugna": 1,
+      "Slark": 1,
+      "Phantom Lancer": 1,
+      "Earth Spirit": 1,
+      "Spectre": 1,
+      "Nature's Prophet": 1,
+      "Dark Seer": 1
+  }},
   "Morphling" : {},
-  "Sniper" : {},
-  "Ursa" : {},
-  "Troll Warlord" : {},
+  "Sniper" : {
+    "winningMatchups":{
+      "Pugna": 3,
+      "Enigma": 1,
+      "Death Prophet": 1,
+      "Undying": 1,
+      "Necrophos": 1,
+      "Outworld Devourer": 1,
+      "Shadow Shadow": 1,
+      "Dark Seer": 1,
+      "Elder Titan": 1,
+      "Leshrac": 1
+  }},
+  "Ursa" : {
+    "winningMatchups":{
+      "Alchemist": 3,
+      "Earth Spirit": 2,
+      "Chen": 2,
+      "Doom": 2,
+      "Lifestealer": 2,
+      "Ember Spirit": 2,
+      "Clockwerk": 2,
+      "Treant Protector": 1,
+      "Juggernaut": 1,
+      "Spectre": 1,
+      "Nature's Prophet": 1,
+      "Anti-Mage": 1,
+      "Elder Titan": 1,
+      "Legion Commander": 1,
+      "Enchantress": 1,
+      "Invoker": 1,
+      "Timbersaw": 1,
+      "Medusa": 1,
+      "Io": 1,
+      "Rubick": 1,
+      "Pugna": 1,
+      "Necrophos": 1
+  }},
+  "Troll Warlord" : {
+    "winningMatchups":{
+      "Lycan": 2,
+      "Alchemist": 2,
+      "Lifestealer": 1,
+      "Earth Spirit": 1,
+      "Huskar": 1,
+      "Legion Commander": 1,
+      "Anti-Mage": 1,
+      "Chen": 1,
+      "Ursa": 1,
+      "Ember Spirit": 1,
+      "Templar Assassin": 1
+  }},
   "Bloodseeker" : {
     "nicknames":"bs",
     "winningMatchups":{
-      "Slark":2
+      "Anti-Mage": 3,
+      "Weaver": 3,
+      "Timbersaw": 1,
+      "Slark": 1,
+      "Broodmother": 1,
+      "Earth Spirit": 1,
+      "Bounty Hunter": 1,
+      "Clinkz": 1,
+      "Mirana": 1,
+      "Nyx Assassin": 1
     }},
-  "Faceless Void" : {},
-  "Broodmother" : {},
-  "Nyx Assassin" : {},
-  "Drow Ranger" : {},
-  "Phantom Lancer" : {},
-  "Templar Assassin" : {},
-  "Gyrocopter" : {},
-  "Ember Spirit" : {},
-  "Shadow Fiend" : {},
-  "Phantom Assassin" : {},
+  "Faceless Void" : {
+    "winningMatchups":{
+      "Lifestealer": 1,
+      "Earth Spirit": 1,
+      "Ember Spirit": 1
+  }},
+  "Broodmother" : {
+    "winningMatchups":{
+      "Mirana": 2,
+      "Clockwerk": 1,
+      "Witch Doctor": 1,
+      "Medusa": 1,
+      "Luna": 1,
+      "Weaver": 1,
+      "Lich": 1,
+      "Warlock": 1,
+      "Juggernaut": 1,
+      "Silencer": 1,
+      "Nature's Prophet": 1,
+      "Undying": 1,
+      "Venomancer": 1,
+      "Abaddon": 1,
+      "Clinkz": 1,
+      "Pudge": 1
+  }},
+  "Nyx Assassin" : {
+    "winningMatchups":{
+      "Outworld Devourer": 1,
+      "Invoker": 1,
+      "Tinker": 1
+  }},
+  "Drow Ranger" : {
+    "winningMatchups":{
+      "Death Prophet": 2,
+      "Alchemist": 2,
+      "Omniknight": 2,
+      "Necrophos": 2,
+      "Doom": 2,
+      "Pugna": 2,
+      "Chen": 2,
+      "Undying": 1,
+      "Treant Protector": 1,
+      "Visage": 1,
+      "Medusa": 1,
+      "Shadow Shaman": 1,
+      "Warlock": 1,
+      "Anti-Mage": 1,
+      "Juggernaut": 1,
+      "Timbersaw": 1,
+      "Enigma": 1,
+      "Dark Seer": 1,
+      "Rubick": 1
+  }},
+  "Phantom Lancer" : {
+    "nicknames": "pl",
+    "winningMatchups":{
+      "Wraith King": 3,
+      "Visage": 2,
+      "Chaos Knight": 1,
+      "Ancient Apparition": 1,
+      "Ogre Magi": 1,
+      "Mirana": 1,
+      "Tinker": 1,
+      "Enchantress": 1
+  }},
+  "Templar Assassin" : {
+    "nicknames":"ta",
+    "winningMatchups":{
+      "Lifestealer": 2,
+      "Huskar": 1,
+      "Shadow Fiend": 1,
+      "Invoker": 1,
+      "Pugna": 1,
+      "Legion Commander": 1,
+      "Nature's Prophet": 1,
+      "Rubick": 1
+  }},
+  "Gyrocopter" : {
+    "winningMatchups":{
+      "Undying": 2,
+      "Dazzle": 1,
+      "Naga Siren": 1,
+      "Slardar": 1
+  }},
+  "Ember Spirit" : {
+    "nicknames":"es",
+    "winningMatchups":{
+      "Meepo": 3,
+      "Phantom Lancer": 2,
+      "Naga Siren": 1
+  }},
+  "Shadow Fiend" : {
+    "nicknames": "sf",
+    "winningMatchups":{
+      "Omniknight": 1,
+      "Timbersaw": 1,
+      "Legion Commander": 1,
+      "Meepo": 1
+  }},
+  "Phantom Assassin" : {
+    "nicknames": "pa",
+    "winningMatchups":{
+      "Anti-Mage": 2,
+      "Drow Ranger": 1,
+      "Nature's Prophet": 1,
+      "Alchemist": 1,
+      "Clinkz": 1,
+      "Lone Druid": 1
+  }},
   "Weaver" : {},
   "Slark" : {},
   "Juggernaut" : {},

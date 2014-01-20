@@ -1,9 +1,9 @@
 dotapicks
 =========
 
-A json database of dota heros and their counters
+A json database of dota heroes and their counters
 
-Heros are described in the following format
+Heroes are described in the following format
 ```
 "Bloodseeker" : {
   "nicknames":"bs",
@@ -13,7 +13,7 @@ Heros are described in the following format
 ```
 
 ### Hero names ##
-All hero names are exactly as they appear on http://www.dota2.com/heroes/ this lends itsself well to pulling imagines and data from dota2.com. For heros with multi-word names one needs to replace the space character with _ when querying dota2.com. For example Outworld Devourer's page can be found at http://www.dota2.com/hero/Outworld_Devourer/. 
+All hero names are exactly as they appear on http://www.dota2.com/heroes/ this lends itsself well to pulling imagines and data from dota2.com. For heroes with multi-word names one needs to replace the space character with _ when querying dota2.com. For example Outworld Devourer's page can be found at http://www.dota2.com/hero/Outworld_Devourer/. 
 
 ### Matchups ###
 Only positive matchups are recorded, and are ranked on a scale from 1-3. Where 3 indicates the hero is a hard counter.

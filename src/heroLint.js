@@ -3,7 +3,7 @@ var fs = require('fs');
 var _ = require('underscore');
 
 cli.parse({
-    herodb: [false, 'hero database PATH', 'path', './dist/heros.json']
+    herodb: [false, 'hero database PATH', 'path', './dist/heroes.json']
 });
 
 
@@ -16,12 +16,12 @@ cli.main(function(args, options) {
         return;
       }
 
-      var heros = JSON.parse(data);
-      for(var heroName in heros){
-        h = heros[heroName];
+      var heroes = JSON.parse(data);
+      for(var heroName in heroes){
+        h = heroes[heroName];
         h.winningMatchups = h.winningMatchups || [];
         for (var enemyName in h.winningMatchups){
-          var enemy = heros[enemyName];
+          var enemy = heroes[enemyName];
           if(!enemy){
             cli.error(heroName + " is matched against a nonexistent hero " + enemyName);
           } else if (enemy.winningMatchups && enemy.winningMatchups[heroName]){

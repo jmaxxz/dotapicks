@@ -20,9 +20,12 @@ cli.main(function(args, options) {
       for(var heroName in heros){
         h = heros[heroName];
         h.winningMatchups = h.winningMatchups || [];
-        for (var enemy in h.winningMatchups){
-          if(!heros[enemy]){
-            cli.error(heroName + " is matched against a nonexistent hero " + enemy);
+        for (var enemyName in h.winningMatchups){
+          var enemy = heros[enemyName];
+          if(!enemy){
+            cli.error(heroName + " is matched against a nonexistent hero " + enemyName);
+          } else if (enemy.winningMatchups && enemy.winningMatchups[heroName]){
+            cli.error("Cyclic match between " + heroName + " <==> " + enemyName);
           }
         }
       }

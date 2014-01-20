@@ -898,31 +898,159 @@
       "Legion Commander": 1,
       "Lone Druid": 1
   }},
-  "Necrophos" : {},
-  "Pugna" : {},
-  "Batrider" : {},
-  "Shadow Demon" : {},
+  "Necrophos" : {
+    "winningMatchups":{
+      "Bristleback": 3,
+      "Spectre": 2,
+      "Centaur Warrunner": 2,
+      "Naga Siren": 2,
+      "Tiny": 1,
+      "Timbersaw": 1,
+      "Axe": 1,
+      "Brewmaster": 1,
+      "Phantom Lancer": 1
+  }},
+  "Pugna" : {
+    "winningMatchups":{
+      "Outworld Devourer": 3,
+      "Timbersaw": 3,
+      "Skywrath Mage": 2,
+      "Storm Spirit": 2,
+      "Queen of Pain": 1,
+      "Necrophos": 1,
+      "Venomancer": 1,
+      "Tidehunter": 1,
+      "Magnus": 1,
+      "Undying": 1,
+      "Lion": 1,
+      "Naga Siren": 1,
+      "Invoker": 1,
+      "Jakiro": 1
+  }},
+  "Batrider" : {
+    "winningMatchups":{
+      "Templar Assassin": 2,
+      "Broodmother": 1,
+      "Earth Spirit": 1
+  }},
+  "Shadow Demon" : {
+    "nicknames": "sd"
+    },
   "Storm Spirit" : { 
-    "nicknames" : "ss"
-  },
+    "nicknames" : "ss",
+    "winningMatchups":{
+      "Nature's Prophet": 1,
+      "Slark": 1,
+      "Clockwerk": 1,
+      "Ember Spirit": 1
+  }},
   "Shadow Shaman" : { 
-    "nicknames" : "ss"
-  },
-  "Jakiro" : {},
-  "Rubick" : {},
-  "Lion" : {},
-  "Warlock" : {},
-  "Dazzle" : {},
+    "nicknames" : "ss",
+    "winningMatchups":{
+      "Storm Spirit": 1,
+      "Anti-Mage": 1,
+      "Clockwerk": 1,
+      "Slardar": 1
+  }},
+  "Jakiro" : {
+    "winningMatchups":{
+      "Meepo": 3,
+      "Naga Siren": 2,
+      "Chaos Knight": 2,
+      "Templar Assassin": 1,
+      "Lone Druid": 1,
+      "Slardar": 1,
+      "Legion Commander": 1,
+      "Omniknight": 1,
+      "Centaur Warrunner": 1,
+      "Treant Protector": 1,
+      "Beastmaster": 1,
+      "Dazzle": 1,
+      "Phantom Lancer": 1
+  }},
+  "Rubick" : {
+    "winningMatchups":{
+      "Jakiro": 1,
+      "Earthshaker": 1,
+      "Omniknight": 1
+  }},
+  "Lion" : {
+    "winningMatchups":{
+      "Bristleback": 1,
+      "Legion Commander": 1,
+      "Troll Warlord": 1
+  }},
+  "Warlock" : {
+    "winningMatchups":{
+      "Meepo": 3,
+      "Tidehunter": 2,
+      "Chaos Knight": 2,
+      "Dazzle": 1,
+      "Naga Siren": 1,
+      "Lone Druid": 1,
+      "Enigma": 1,
+      "Lion": 1,
+      "Omniknight": 1,
+      "Beastmaster": 1,
+      "Ogre Magi": 1,
+      "Axe": 1,
+      "Necrophos": 1
+  }},
+  "Dazzle" : {
+    "winningMatchups":{
+      "Spectre": 1,
+      "Legion Commander": 1,
+      "Huskar": 1,
+      "Lifestealer": 1
+  }},
   "Ancient Apparition" : { 
-    "nicknames" : "aa"
+    "nicknames" : "aa",
+    "winningMatchups":{
+      "Necrophos": 2,
+      "Dazzle": 2,
+      "Omniknight":2,
+      "Axe": 1,
+      "Meepo": 1,
+      "Bristleback": 1
+  }},
+  "Visage" : {
+    "winningMatchups":{
+      "Clockwerk": 2,
+      "Elder Titan": 1,
+      "Mirana": 1
+  }},
+  "Windranger" : {
+    "nicknames":["Windrunner", "wr"]
   },
-  "Visage" : {},
-  "Windranger" : {},
-  "Tinker" : {},
-  "Chen" : {},
-  "Disruptor" : {},
-  "Witch Doctor" : {},
+  "Tinker" : {
+    "winningMatchups":{
+      "Shadow Fiend": 2
+  }},
+  "Chen" : {
+    "winningMatchups":{
+      "Mirana": 2,
+      "Spectre": 2,
+      "Clockwerk": 1,
+      "Invoker": 1,
+      "Alchemist": 1,
+      "Juggernaut": 1
+  }},
+  "Disruptor" : {
+    "winningMatchups":{
+      "Meepo": 1,
+      "Outworld Devourer": 1,
+      "Centaur Warrunner": 1,
+      "Omniknight": 1,
+      "Necrophos": 1,
+      "Tidehunter": 1
+  }},
+  "Witch Doctor" : {
+    "winningMatchups":{
+      "Centaur Warrunner": 1,
+      "Necrophos": 1,
+      "Troll Warlord": 1
+  }},
   "Queen of Pain" : { 
     "nicknames" : "qop"
-  }
+  }},
 }

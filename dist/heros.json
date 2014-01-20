@@ -15,7 +15,7 @@
       "Zeus": 3,
       "Earth Spirit": 3,
       "Clockwerk": 2,
-      "Skywrath": 2,
+      "Skywrath Mage": 2,
       "Queen of Pain": 1,
       "Ember Spirit": 1,
       "Batrider": 1,
@@ -28,7 +28,7 @@
     "nicknames" : "Wisp",
     "winningMatchups":{
       "Earth Spirit": 1,
-      "Natures Prophet": 1,
+      "Nature's Prophet": 1,
       "Spectre": 1
   }},
   "Tusk" : {},
@@ -70,7 +70,7 @@
       "Wraith King": 1,
       "Meepo": 1,
       "Ogre Magi": 1,
-      "Crystal Magi": 1,
+      "Crystal Maiden": 1,
       "Clockwerk": 1,
       "Omniknight": 1,
       "Tusk": 1
@@ -78,7 +78,7 @@
   "Sven" : {
     "winningMatchups":{
       "Meepo": 3,
-      "Chaos": 2,
+      "Chaos Knight": 2,
       "Earth Spirit": 1,
       "Undying": 1,
       "Naga Siren": 1
@@ -385,7 +385,7 @@
       "Undying": 1,
       "Necrophos": 1,
       "Outworld Devourer": 1,
-      "Shadow Shadow": 1,
+      "Shadow Shaman": 1,
       "Dark Seer": 1,
       "Elder Titan": 1,
       "Leshrac": 1
@@ -732,8 +732,8 @@
       "Bounty Hunter": 2,
       "Phantom Lancer": 2,
       "Wraith King": 2,
-      "Nigh Stalker": 2,
-      "Zues": 1,
+      "Night Stalker": 2,
+      "Zeus": 1,
       "Nature's Prophet": 1,
       "Alchemist": 1,
       "Lone Druid": 1,
@@ -774,7 +774,7 @@
       "Gyrocopter": 1,
       "Magnus": 1,
       "Luna": 1,
-      "Eath Spirit": 1,
+      "Earth Spirit": 1,
       "Naga Siren": 1,
       "Phantom Lancer": 1,
       "Nyx Assassin": 1,
@@ -850,7 +850,7 @@
       "Omniknight": 1,
       "Beastmaster": 1,
       "Phantom Lancer": 1,
-      "Choas Knight": 1,
+      "Chaos Knight": 1,
       "Meepo": 1,
       "Naga Siren": 1,
       "Dazzle": 1
@@ -1052,5 +1052,13 @@
   }},
   "Queen of Pain" : { 
     "nicknames" : "qop"
-  }},
+  },
+  "Invoker" : {},
+  "Leshrac" : {
+    "winningMatchups": {
+      "Meepo": 1,
+      "Naga Siren": 1,
+      "Templar Assassin": 1
+    }
+  }
 }

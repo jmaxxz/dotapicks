@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "cli":"*",
-    "underscore": "*"
+    "underscore": "*",
+    "request": "*"
   }
 }

@@ -1,3 +1,7 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jmaxxz/dotapicks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Build Status](https://travis-ci.org/jmaxxz/dotapicks.png?branch=master)](https://travis-ci.org/jmaxxz/pickfast)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 dotapicks
 =========
 

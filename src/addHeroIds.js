@@ -34,7 +34,7 @@ cli.main(function(args, options) {
             cli.info('Adding id of ' + aHero.id + ' to '+ aHero.localized_name);
             heroes[aHero.localized_name].id = aHero.id;
           }
-        };
+        }
 
         var updatedDatabase = JSON.stringify(heroes, null, 2);
         fs.writeFile(herodb, updatedDatabase, function (err) {

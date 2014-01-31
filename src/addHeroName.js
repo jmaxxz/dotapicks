@@ -22,7 +22,7 @@ cli.main(function(args, options) {
         var hero = heroes[h];
 
         hero.name=h;
-      };
+      }
 
       var updatedDatabase = JSON.stringify(heroes, null, 2);
       fs.writeFile(herodb, updatedDatabase, function (err) {

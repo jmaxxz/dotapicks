@@ -20,6 +20,11 @@ cli.main(function(args, options) {
       for(var heroName in heroes){
         h = heroes[heroName];
         h.winningMatchups = h.winningMatchups || [];
+
+        if(h.name !== heroName){
+          cli.error(heroName + '\'s index is different from its name ' + h.name);
+        }
+
         for (var enemyName in h.winningMatchups){
           var enemy = heroes[enemyName];
           if(!enemy){

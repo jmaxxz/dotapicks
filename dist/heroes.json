@@ -5,13 +5,15 @@
       "Naga Siren": 2,
       "Chaos Knight": 1
     },
-    "id": 7
+    "id": 7,
+    "name": "Earthshaker"
   },
   "Beastmaster": {
     "winningMatchups": {
       "Broodmother": 1
     },
-    "id": 38
+    "id": 38,
+    "name": "Beastmaster"
   },
   "Huskar": {
     "winningMatchups": {
@@ -28,7 +30,8 @@
       "Lich": 1,
       "Pudge": 1
     },
-    "id": 59
+    "id": 59,
+    "name": "Huskar"
   },
   "Io": {
     "nicknames": "Wisp",
@@ -37,10 +40,12 @@
       "Nature's Prophet": 1,
       "Spectre": 1
     },
-    "id": 91
+    "id": 91,
+    "name": "Io"
   },
   "Tusk": {
-    "id": 100
+    "id": 100,
+    "name": "Tusk"
   },
   "Axe": {
     "winningMatchups": {
@@ -54,7 +59,8 @@
       "Naga Siren": 1,
       "Phantom Assassin": 1
     },
-    "id": 2
+    "id": 2,
+    "name": "Axe"
   },
   "Tidehunter": {
     "winningMatchups": {
@@ -64,13 +70,15 @@
       "Phantom Assassin": 1,
       "Bane": 1
     },
-    "id": 29
+    "id": 29,
+    "name": "Tidehunter"
   },
   "Doom": {
     "winningMatchups": {
       "Abaddon": 2
     },
-    "id": 69
+    "id": 69,
+    "name": "Doom"
   },
   "Undying": {
     "winningMatchups": {
@@ -91,7 +99,8 @@
       "Omniknight": 1,
       "Tusk": 1
     },
-    "id": 85
+    "id": 85,
+    "name": "Undying"
   },
   "Sven": {
     "winningMatchups": {
@@ -101,7 +110,8 @@
       "Undying": 1,
       "Naga Siren": 1
     },
-    "id": 18
+    "id": 18,
+    "name": "Sven"
   },
   "Dragon Knight": {
     "nicknames": "dk",
@@ -111,7 +121,8 @@
       "Legion Commander": 1,
       "Slardar": 1
     },
-    "id": 49
+    "id": 49,
+    "name": "Dragon Knight"
   },
   "Alchemist": {
     "winningMatchups": {
@@ -127,7 +138,8 @@
       "Venomancer": 1,
       "Dark Seer": 1
     },
-    "id": 73
+    "id": 73,
+    "name": "Alchemist"
   },
   "Centaur Warrunner": {
     "winningMatchups": {
@@ -141,7 +153,8 @@
       "Chaos Knight": 1,
       "Ursa": 1
     },
-    "id": 96
+    "id": 96,
+    "name": "Centaur Warrunner"
   },
   "Elder Titan": {
     "winningMatchups": {
@@ -153,7 +166,8 @@
       "Gyrocopter": 1,
       "Earth Spirit": 1
     },
-    "id": 103
+    "id": 103,
+    "name": "Elder Titan"
   },
   "Pudge": {
     "winningMatchups": {
@@ -161,7 +175,8 @@
       "Shadow Fiend": 1,
       "Tinker": 1
     },
-    "id": 14
+    "id": 14,
+    "name": "Pudge"
   },
   "Wraith King": {
     "winningMatchups": {
@@ -175,7 +190,8 @@
       "Nature's Prophet": 1,
       "Faceless Void": 1
     },
-    "id": 42
+    "id": 42,
+    "name": "Wraith King"
   },
   "Spirit Breaker": {
     "winningMatchups": {
@@ -186,7 +202,8 @@
       "Anti-Mage": 1,
       "Keeper of the Light": 1
     },
-    "id": 71
+    "id": 71,
+    "name": "Spirit Breaker"
   },
   "Magnus": {
     "winningMatchups": {
@@ -194,7 +211,8 @@
       "Naga Siren": 1,
       "Legion Commander": 1
     },
-    "id": 97
+    "id": 97,
+    "name": "Magnus"
   },
   "Tiny": {
     "winningMatchups": {
@@ -207,7 +225,8 @@
       "Legion Commander": 1,
       "Slark": 1
     },
-    "id": 19
+    "id": 19,
+    "name": "Tiny"
   },
   "Clockwerk": {
     "winningMatchups": {
@@ -217,7 +236,8 @@
       "Slardar": 1,
       "Axe": 1
     },
-    "id": 51
+    "id": 51,
+    "name": "Clockwerk"
   },
   "Brewmaster": {
     "winningMatchups": {
@@ -230,7 +250,8 @@
       "Chaos Knight": 1,
       "Broodmother": 1
     },
-    "id": 78
+    "id": 78,
+    "name": "Brewmaster"
   },
   "Timbersaw": {
     "winningMatchups": {
@@ -248,7 +269,8 @@
       "Bristleback": 1,
       "Legion Commander": 1
     },
-    "id": 98
+    "id": 98,
+    "name": "Timbersaw"
   },
   "Legion Commander": {
     "winningMatchups": {
@@ -256,7 +278,8 @@
       "Broodmother": 2,
       "Nature's Prophet": 1
     },
-    "id": 104
+    "id": 104,
+    "name": "Legion Commander"
   },
   "Sand King": {
     "nicknames": "sk",
@@ -274,7 +297,8 @@
       "Lone Druid": 1,
       "Shadow Demon": 1
     },
-    "id": 16
+    "id": 16,
+    "name": "Sand King"
   },
   "Lifestealer": {
     "nicknames": "ls",
@@ -291,7 +315,8 @@
       "Alchemist": 1,
       "Keeper of the Light": 1
     },
-    "id": 54
+    "id": 54,
+    "name": "Lifestealer"
   },
   "Lycan": {
     "winningMatchups": {
@@ -315,7 +340,8 @@
       "Rubick": 1,
       "Venomancer": 1
     },
-    "id": 77
+    "id": 77,
+    "name": "Lycan"
   },
   "Abaddon": {
     "winningMatchups": {
@@ -327,7 +353,8 @@
       "Legion Commander": 1,
       "Tidehunter": 1
     },
-    "id": 102
+    "id": 102,
+    "name": "Abaddon"
   },
   "Kunkka": {
     "winningMatchups": {
@@ -337,7 +364,8 @@
       "Naga Siren": 1,
       "Undying": 1
     },
-    "id": 23
+    "id": 23,
+    "name": "Kunkka"
   },
   "Omniknight": {
     "winningMatchups": {
@@ -358,7 +386,8 @@
       "Wraith King": 1,
       "Lycan": 1
     },
-    "id": 57
+    "id": 57,
+    "name": "Omniknight"
   },
   "Treant Protector": {
     "winningMatchups": {
@@ -367,7 +396,8 @@
       "Storm Spirit": 1,
       "Lone Druid": 1
     },
-    "id": 83
+    "id": 83,
+    "name": "Treant Protector"
   },
   "Bristleback": {
     "winningMatchups": {
@@ -383,7 +413,8 @@
       "Lycan": 1,
       "Broodmother": 1
     },
-    "id": 99
+    "id": 99,
+    "name": "Bristleback"
   },
   "Earth Spirit": {
     "winningMatchups": {
@@ -395,7 +426,8 @@
       "Windranger": 1,
       "Storm Spirit": 1
     },
-    "id": 107
+    "id": 107,
+    "name": "Earth Spirit"
   },
   "Slardar": {
     "winningMatchups": {
@@ -408,7 +440,8 @@
       "Meepo": 1,
       "Ursa": 1
     },
-    "id": 28
+    "id": 28,
+    "name": "Slardar"
   },
   "Night Stalker": {
     "nicknames": "ns",
@@ -419,7 +452,8 @@
       "Shadow Fiend": 1,
       "Juggernaut": 1
     },
-    "id": 60
+    "id": 60,
+    "name": "Night Stalker"
   },
   "Chaos Knight": {
     "nicknames": "ck",
@@ -429,7 +463,8 @@
       "Skywrath Mage": 1,
       "Bane": 1
     },
-    "id": 81
+    "id": 81,
+    "name": "Chaos Knight"
   },
   "Anti-Mage": {
     "nicknames": "am",
@@ -445,10 +480,12 @@
       "Nature's Prophet": 1,
       "Dark Seer": 1
     },
-    "id": 1
+    "id": 1,
+    "name": "Anti-Mage"
   },
   "Morphling": {
-    "id": 10
+    "id": 10,
+    "name": "Morphling"
   },
   "Sniper": {
     "winningMatchups": {
@@ -463,7 +500,8 @@
       "Elder Titan": 1,
       "Leshrac": 1
     },
-    "id": 35
+    "id": 35,
+    "name": "Sniper"
   },
   "Ursa": {
     "winningMatchups": {
@@ -490,7 +528,8 @@
       "Pugna": 1,
       "Necrophos": 1
     },
-    "id": 70
+    "id": 70,
+    "name": "Ursa"
   },
   "Troll Warlord": {
     "winningMatchups": {
@@ -506,7 +545,8 @@
       "Ember Spirit": 1,
       "Templar Assassin": 1
     },
-    "id": 95
+    "id": 95,
+    "name": "Troll Warlord"
   },
   "Bloodseeker": {
     "nicknames": "bs",
@@ -522,7 +562,8 @@
       "Mirana": 1,
       "Nyx Assassin": 1
     },
-    "id": 4
+    "id": 4,
+    "name": "Bloodseeker"
   },
   "Faceless Void": {
     "winningMatchups": {
@@ -530,7 +571,8 @@
       "Earth Spirit": 1,
       "Ember Spirit": 1
     },
-    "id": 41
+    "id": 41,
+    "name": "Faceless Void"
   },
   "Broodmother": {
     "winningMatchups": {
@@ -551,7 +593,8 @@
       "Clinkz": 1,
       "Pudge": 1
     },
-    "id": 61
+    "id": 61,
+    "name": "Broodmother"
   },
   "Nyx Assassin": {
     "winningMatchups": {
@@ -559,7 +602,8 @@
       "Invoker": 1,
       "Tinker": 1
     },
-    "id": 88
+    "id": 88,
+    "name": "Nyx Assassin"
   },
   "Drow Ranger": {
     "winningMatchups": {
@@ -583,7 +627,8 @@
       "Dark Seer": 1,
       "Rubick": 1
     },
-    "id": 6
+    "id": 6,
+    "name": "Drow Ranger"
   },
   "Phantom Lancer": {
     "nicknames": "pl",
@@ -597,7 +642,8 @@
       "Tinker": 1,
       "Enchantress": 1
     },
-    "id": 12
+    "id": 12,
+    "name": "Phantom Lancer"
   },
   "Templar Assassin": {
     "nicknames": "ta",
@@ -611,7 +657,8 @@
       "Nature's Prophet": 1,
       "Rubick": 1
     },
-    "id": 46
+    "id": 46,
+    "name": "Templar Assassin"
   },
   "Gyrocopter": {
     "winningMatchups": {
@@ -620,7 +667,8 @@
       "Naga Siren": 1,
       "Slardar": 1
     },
-    "id": 72
+    "id": 72,
+    "name": "Gyrocopter"
   },
   "Ember Spirit": {
     "nicknames": "es",
@@ -629,7 +677,8 @@
       "Phantom Lancer": 2,
       "Naga Siren": 1
     },
-    "id": 106
+    "id": 106,
+    "name": "Ember Spirit"
   },
   "Shadow Fiend": {
     "nicknames": "sf",
@@ -639,7 +688,8 @@
       "Legion Commander": 1,
       "Meepo": 1
     },
-    "id": 11
+    "id": 11,
+    "name": "Shadow Fiend"
   },
   "Phantom Assassin": {
     "nicknames": "pa",
@@ -651,7 +701,8 @@
       "Clinkz": 1,
       "Lone Druid": 1
     },
-    "id": 44
+    "id": 44,
+    "name": "Phantom Assassin"
   },
   "Weaver": {
     "winningMatchups": {
@@ -664,7 +715,8 @@
       "Witch Doctor": 1,
       "Ancient Apparition": 1
     },
-    "id": 63
+    "id": 63,
+    "name": "Weaver"
   },
   "Slark": {
     "winningMatchups": {
@@ -678,7 +730,8 @@
       "Templar Assassin": 1,
       "Enchantress": 1
     },
-    "id": 93
+    "id": 93,
+    "name": "Slark"
   },
   "Juggernaut": {
     "winningMatchups": {
@@ -695,7 +748,8 @@
       "Kunkka": 1,
       "Rubick": 1
     },
-    "id": 8
+    "id": 8,
+    "name": "Juggernaut"
   },
   "Vengeful Spirit": {
     "winningMatchups": {
@@ -703,7 +757,8 @@
       "Anti-Mage": 1,
       "Alchemist": 1
     },
-    "id": 20
+    "id": 20,
+    "name": "Vengeful Spirit"
   },
   "Luna": {
     "winningMatchups": {
@@ -715,14 +770,16 @@
       "Slardar": 1,
       "Dazzle": 1
     },
-    "id": 48
+    "id": 48,
+    "name": "Luna"
   },
   "Lone Druid": {
     "winningMatchups": {
       "Silencer": 1,
       "Mirana": 1
     },
-    "id": 80
+    "id": 80,
+    "name": "Lone Druid"
   },
   "Razor": {
     "winningMatchups": {
@@ -735,7 +792,8 @@
       "Bane": 1,
       "Visage": 1
     },
-    "id": 15
+    "id": 15,
+    "name": "Razor"
   },
   "Viper": {
     "winningMatchups": {
@@ -750,7 +808,8 @@
       "Queen of Pain": 1,
       "Leshrac": 1
     },
-    "id": 47
+    "id": 47,
+    "name": "Viper"
   },
   "Spectre": {
     "winningMatchups": {
@@ -764,14 +823,16 @@
       "Lina": 1,
       "Sand King": 1
     },
-    "id": 67
+    "id": 67,
+    "name": "Spectre"
   },
   "Medusa": {
     "winningMatchups": {
       "Chaos Knight": 1,
       "Sven": 1
     },
-    "id": 94
+    "id": 94,
+    "name": "Medusa"
   },
   "Mirana": {
     "nicknames": [
@@ -781,7 +842,8 @@
     "winningMatchups": {
       "Witch Doctor": 1
     },
-    "id": 9
+    "id": 9,
+    "name": "Mirana"
   },
   "Riki": {
     "winningMatchups": {
@@ -803,7 +865,8 @@
       "Rubick": 1,
       "Undying": 1
     },
-    "id": 32
+    "id": 32,
+    "name": "Riki"
   },
   "Bounty Hunter": {
     "winningMatchups": {
@@ -814,7 +877,8 @@
       "Mirana": 1,
       "Nature's Prophet": 1
     },
-    "id": 62
+    "id": 62,
+    "name": "Bounty Hunter"
   },
   "Naga Siren": {
     "winningMatchups": {
@@ -827,7 +891,8 @@
       "Shadow Demon": 1,
       "Night Stalker": 1
     },
-    "id": 89
+    "id": 89,
+    "name": "Naga Siren"
   },
   "Venomancer": {
     "winningMatchups": {
@@ -843,7 +908,8 @@
       "Timbersaw": 1,
       "Doom": 1
     },
-    "id": 40
+    "id": 40,
+    "name": "Venomancer"
   },
   "Clinkz": {
     "winningMatchups": {
@@ -858,7 +924,8 @@
       "Clockwerk": 1,
       "Juggernaut": 1
     },
-    "id": 56
+    "id": 56,
+    "name": "Clinkz"
   },
   "Meepo": {
     "winningMatchups": {
@@ -882,7 +949,8 @@
       "Viper": 1,
       "Pugna": 1
     },
-    "id": 82
+    "id": 82,
+    "name": "Meepo"
   },
   "Crystal Maiden": {
     "nicknames": "cm",
@@ -896,7 +964,8 @@
       "Templar Assassin": 1,
       "Phantom Lancer": 1
     },
-    "id": 5
+    "id": 5,
+    "name": "Crystal Maiden"
   },
   "Zeus": {
     "winningMatchups": {
@@ -920,7 +989,8 @@
       "Nyx Assassin": 1,
       "Clockwerk": 1
     },
-    "id": 22
+    "id": 22,
+    "name": "Zeus"
   },
   "Nature's Prophet": {
     "nicknames": "np",
@@ -935,7 +1005,8 @@
       "Lich": 1,
       "Undying": 1
     },
-    "id": 53
+    "id": 53,
+    "name": "Nature's Prophet"
   },
   "Silencer": {
     "winningMatchups": {
@@ -948,7 +1019,8 @@
       "Enigma": 1,
       "Necrophos": 1
     },
-    "id": 75
+    "id": 75,
+    "name": "Silencer"
   },
   "Keeper of the Light": {
     "nicknames": "kotl",
@@ -956,16 +1028,19 @@
       "Medusa": 1,
       "Undying": 1
     },
-    "id": 90
+    "id": 90,
+    "name": "Keeper of the Light"
   },
   "Bane": {
-    "id": 3
+    "id": 3,
+    "name": "Bane"
   },
   "Enigma": {
     "winningMatchups": {
       "Legion Commander": 1
     },
-    "id": 33
+    "id": 33,
+    "name": "Enigma"
   },
   "Death Prophet": {
     "nicknames": "dp",
@@ -994,7 +1069,8 @@
       "Puck": 1,
       "Bane": 1
     },
-    "id": 43
+    "id": 43,
+    "name": "Death Prophet"
   },
   "Dark Seer": {
     "nicknames": "ds",
@@ -1009,7 +1085,8 @@
       "Naga Siren": 1,
       "Dazzle": 1
     },
-    "id": 55
+    "id": 55,
+    "name": "Dark Seer"
   },
   "Outworld Devourer": {
     "nicknames": "od",
@@ -1022,36 +1099,42 @@
       "Abaddon": 1,
       "Dazzle": 1
     },
-    "id": 76
+    "id": 76,
+    "name": "Outworld Devourer"
   },
   "Puck": {
-    "id": 13
+    "id": 13,
+    "name": "Puck"
   },
   "Lina": {
     "winningMatchups": {
       "Meepo": 2,
       "Omniknight": 1
     },
-    "id": 25
+    "id": 25,
+    "name": "Lina"
   },
   "Enchantress": {
     "winningMatchups": {
       "Lone Druid": 1
     },
-    "id": 58
+    "id": 58,
+    "name": "Enchantress"
   },
   "Ogre Magi": {
     "winningMatchups": {
       "Phantom Assassin": 2,
       "Tinker": 1
     },
-    "id": 84
+    "id": 84,
+    "name": "Ogre Magi"
   },
   "Skywrath Mage": {
     "winningMatchups": {
       "Timbersaw": 1
     },
-    "id": 101
+    "id": 101,
+    "name": "Skywrath Mage"
   },
   "Lich": {
     "winningMatchups": {
@@ -1066,7 +1149,8 @@
       "Legion Commander": 1,
       "Lone Druid": 1
     },
-    "id": 31
+    "id": 31,
+    "name": "Lich"
   },
   "Necrophos": {
     "winningMatchups": {
@@ -1080,7 +1164,8 @@
       "Brewmaster": 1,
       "Phantom Lancer": 1
     },
-    "id": 36
+    "id": 36,
+    "name": "Necrophos"
   },
   "Pugna": {
     "winningMatchups": {
@@ -1099,7 +1184,8 @@
       "Invoker": 1,
       "Jakiro": 1
     },
-    "id": 45
+    "id": 45,
+    "name": "Pugna"
   },
   "Batrider": {
     "winningMatchups": {
@@ -1107,11 +1193,13 @@
       "Broodmother": 1,
       "Earth Spirit": 1
     },
-    "id": 65
+    "id": 65,
+    "name": "Batrider"
   },
   "Shadow Demon": {
     "nicknames": "sd",
-    "id": 79
+    "id": 79,
+    "name": "Shadow Demon"
   },
   "Storm Spirit": {
     "nicknames": "ss",
@@ -1121,7 +1209,8 @@
       "Clockwerk": 1,
       "Ember Spirit": 1
     },
-    "id": 17
+    "id": 17,
+    "name": "Storm Spirit"
   },
   "Shadow Shaman": {
     "nicknames": "ss",
@@ -1131,7 +1220,8 @@
       "Clockwerk": 1,
       "Slardar": 1
     },
-    "id": 27
+    "id": 27,
+    "name": "Shadow Shaman"
   },
   "Jakiro": {
     "winningMatchups": {
@@ -1149,7 +1239,8 @@
       "Dazzle": 1,
       "Phantom Lancer": 1
     },
-    "id": 64
+    "id": 64,
+    "name": "Jakiro"
   },
   "Rubick": {
     "winningMatchups": {
@@ -1157,7 +1248,8 @@
       "Earthshaker": 1,
       "Omniknight": 1
     },
-    "id": 86
+    "id": 86,
+    "name": "Rubick"
   },
   "Lion": {
     "winningMatchups": {
@@ -1165,7 +1257,8 @@
       "Legion Commander": 1,
       "Troll Warlord": 1
     },
-    "id": 26
+    "id": 26,
+    "name": "Lion"
   },
   "Warlock": {
     "winningMatchups": {
@@ -1183,7 +1276,8 @@
       "Axe": 1,
       "Necrophos": 1
     },
-    "id": 37
+    "id": 37,
+    "name": "Warlock"
   },
   "Dazzle": {
     "winningMatchups": {
@@ -1192,7 +1286,8 @@
       "Huskar": 1,
       "Lifestealer": 1
     },
-    "id": 50
+    "id": 50,
+    "name": "Dazzle"
   },
   "Ancient Apparition": {
     "nicknames": "aa",
@@ -1204,7 +1299,8 @@
       "Meepo": 1,
       "Bristleback": 1
     },
-    "id": 68
+    "id": 68,
+    "name": "Ancient Apparition"
   },
   "Visage": {
     "winningMatchups": {
@@ -1212,20 +1308,23 @@
       "Elder Titan": 1,
       "Mirana": 1
     },
-    "id": 92
+    "id": 92,
+    "name": "Visage"
   },
   "Windranger": {
     "nicknames": [
       "Windrunner",
       "wr"
     ],
-    "id": 21
+    "id": 21,
+    "name": "Windranger"
   },
   "Tinker": {
     "winningMatchups": {
       "Shadow Fiend": 2
     },
-    "id": 34
+    "id": 34,
+    "name": "Tinker"
   },
   "Chen": {
     "winningMatchups": {
@@ -1236,7 +1335,8 @@
       "Alchemist": 1,
       "Juggernaut": 1
     },
-    "id": 66
+    "id": 66,
+    "name": "Chen"
   },
   "Disruptor": {
     "winningMatchups": {
@@ -1247,7 +1347,8 @@
       "Necrophos": 1,
       "Tidehunter": 1
     },
-    "id": 87
+    "id": 87,
+    "name": "Disruptor"
   },
   "Witch Doctor": {
     "winningMatchups": {
@@ -1255,14 +1356,17 @@
       "Necrophos": 1,
       "Troll Warlord": 1
     },
-    "id": 30
+    "id": 30,
+    "name": "Witch Doctor"
   },
   "Queen of Pain": {
     "nicknames": "qop",
-    "id": 39
+    "id": 39,
+    "name": "Queen of Pain"
   },
   "Invoker": {
-    "id": 74
+    "id": 74,
+    "name": "Invoker"
   },
   "Leshrac": {
     "winningMatchups": {
@@ -1270,12 +1374,15 @@
       "Naga Siren": 1,
       "Templar Assassin": 1
     },
-    "id": 52
+    "id": 52,
+    "name": "Leshrac"
   },
   "npc_dota_hero_terrorblade": {
-    "id": 109
+    "id": 109,
+    "name": "npc_dota_hero_terrorblade"
   },
   "Abyssal Underlord": {
-    "id": 108
+    "id": 108,
+    "name": "Abyssal Underlord"
   }
 }
